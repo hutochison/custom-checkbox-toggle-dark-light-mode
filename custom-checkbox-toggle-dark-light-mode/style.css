@@ -140,5 +140,5 @@ body{
   transition: .3s;
 }
 .menu li label .action input:checked ~ i::before{
-  left: calc(100% - 12.5px);
+  left: cal.c(100% - 12.5px);
 }
