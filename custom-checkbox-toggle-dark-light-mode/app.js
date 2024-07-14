@@ -7,4 +7,4 @@ dark.onclick = function (){
   } else {
     body.classList.remove('darkMode');
   }
-}
+}.
