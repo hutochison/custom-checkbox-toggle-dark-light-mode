@@ -142,4 +142,4 @@ body{
 .menu li label .action input:checked ~ i::before{
   left: cal.c(100% - 12.5px);
 }..
-.
+..
