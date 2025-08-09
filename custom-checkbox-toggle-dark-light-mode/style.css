@@ -13,6 +13,16 @@ body{
 }
 .darkMode{
   background: #333;
+}body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #f0f0f0;
+  transition: .3s;
+}
+.darkMode{
+  background: #333;
 }
 .box{
   position: relative;
@@ -252,4 +262,5 @@ body{
 ////////////
 ////////
 ////////////////
+
 
